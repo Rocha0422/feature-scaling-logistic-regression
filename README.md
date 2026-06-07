@@ -29,6 +29,19 @@ This project investigates the impact of feature scaling techniques on logistic r
 
 The study demonstrated that feature scaling can significantly improve logistic regression performance when features vary widely in magnitude.
 
+### Heart Disease Dataset
+![Heart Disease Results](images/heart_disease_results.png)
+
+---
+
+### Loan Approval Dataset
+![Loan Results](images/loan_dataset_results.png)
+
+---
+
+### Raisin Classification Dataset
+![Raisin Results](images/raisin_classification_results.png)
+
 ## Repository Contents
 
 - `paper.pdf` - Full research paper
