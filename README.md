@@ -35,7 +35,7 @@ The study demonstrated that feature scaling can significantly improve logistic r
 - `notebooks/` - Experimental notebook
 - `data/` - Datasets used in the study
 
-## Author
+## Authors
 
-Santiago Rocha
-Hayden Rose
+-Santiago Rocha
+-Hayden Rose
